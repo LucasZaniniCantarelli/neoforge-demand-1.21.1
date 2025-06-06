@@ -1,3 +1,5 @@
 {
-  "item.demand.coin": "Coin"
+  "item.demand.coin": "Coin",
+
+  "block.demand.demand_block": "Demand Block"
 }
